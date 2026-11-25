@@ -30,5 +30,12 @@ htmlcov/
 # Jupyter
 .ipynb_checkpoints/
 
+# JetBrains IDEs (PyCharm, Rider, IntelliJ, Fleet)
+.idea/
+*.iml
+*.ipr
+*.iws
+.fleet/
+
 # macOS
 .DS_Store
